@@ -13,7 +13,7 @@ def parser_tsv(*args, **kwargs):
     '''
     pass
 
-def parser_data(*args, **kwargs):
+def parser_date(*args, **kwargs):
     '''
     Функция рекурсивно обходит заданную директорию и собирает все пути до файлов,
     у которых последняя дата изменения совпадает с заданной
